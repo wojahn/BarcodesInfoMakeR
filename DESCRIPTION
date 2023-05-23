@@ -1,0 +1,11 @@
+Package: BarcodesInfoMakeR
+Type: Package
+Title: Makes A 3 Column Data.Frame With Custom Unique IDs, i5 and i7 Sequences 
+Version: 0.1.0
+Author: John M. A. Wojahn
+Maintainer: The package maintainer <mikewojahn@boisestate.edu>
+Description: Makes A 3 Column Data.Frame With Custom Unique IDs, i5 and i7 Sequences.
+License: GNU Affero General Public License v. 3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
